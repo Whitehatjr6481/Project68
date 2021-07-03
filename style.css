@@ -1,0 +1,32 @@
+.list{
+    float:left;
+    color:#e1b0ff;
+    padding-top:5px;
+    padding-right:9px;
+    padding-left:9px;
+    padding-bottom:5px;
+    font-family:fantasy;
+    font-size:30px;
+   list-style:none;
+}
+.list:hover{
+    background-color:#abf5e9;
+    font-size:25px;
+    text-decoration:underline;
+}
+body{
+    text-align: center;
+}
+img{
+    height: 700px;
+    width: 700px;
+}
+.book{
+    cursor:pointer; 
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
